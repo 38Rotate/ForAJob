@@ -1,6 +1,6 @@
 # ForAJob
 
-# This repository is designed for future employers. Where every language I have learned up to this day has been documented in the following order:
+This repository is designed for future employers. Where every language I have learned up to this day has been documented in the following order:
 
 1. Dictionary-like txt file demostrating knowledge of language componenets (Also for personal reminder use)
 2. A basic file or program demonstrating use of each of the language components in a practical sense. IE: Demostrating the use of unordered lists in HTML
